@@ -1,0 +1,8 @@
+.black-button {
+    background-color: black;
+    color: white;
+}
+.black-button:active {
+    background-color: white;
+    color: black; 
+}
